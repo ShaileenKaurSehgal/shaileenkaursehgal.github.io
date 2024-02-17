@@ -1,0 +1,35 @@
+[
+    {
+        "id" : "tc",
+        "title": "Tooling Conversion",
+        "desc": [
+            "Converted an internal tool from Liferay to Angular15, using PrimeNg components for responsive User Interface and HTTPClient module for RESTful API Integration with error handling and secure API communication through token‑based authentication.",
+            "Used OAuth 2.0 for authentication process and token‑based authorization."
+        ]
+    },
+     {
+        "id" : "ha",
+        "title": "HR Health App Conversion",
+        "desc": [
+            "Development of new web components and enhancing existing UI of the healthcare application utilized within the HR application. Utilized Module federation, Karma for unit testing and RxJS subjects for communication between components, data sharing, and event handling.",
+            "Implemented dynamic forms using Angular Reactive Forms and applied form validations for data completeness and accuracy. item Integrated Angular’s Internationalization(i18n) features for supporting multiple languages."
+        ]
+    },
+    {
+        "id" : "ups",
+        "title": "UPS Web Application",
+        "desc": [
+            "Contributed to the development of UI for UPS tracking Application in Angular 10 for Cognizant, integrated the Google API for live package tracking along with push notifications for package updates.",
+            "Demonstrated expertise in version control using GitHub and Bitbucket, actively collaborating with team members on code management."
+        ]
+    },
+    {
+        "id" : "rms",
+        "title": "RMS Application",
+        "desc": [
+            "Developed Resource Management System using Angular4, serving as an important tool for internal usage to check salary details, monitor as‑ signed tasks throughout the year, and check past records. Subsequently managed the successful migration through Angular5, 6, 7, 8, and finally to Angular 9 for optimal performance.",
+            "Implemented role‑based access control using Auth Guards, ensuring secure access to various functionalities.",
+            "Maintained seamless navigation using Angular Router, employed lazy loading technique for optimization from Angular 8 onwards."
+        ]
+    }
+]
