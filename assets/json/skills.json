@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Frameworks",
+    "desc": "Experienced  Angular developer with over 5 years of practical expertise, well-versed in Angular 2+ through the latest Angular 15, consistently delivering scalable and high-performance web applications.",
+    "topics": ["Angular", "Angular15"]
+  },
+  {
+    "title": "Programming Languages",
+    "desc": "Utilizing TypeScript to create components, services, and diverse Angular concepts, aligning with the capabilities of JS and ES6 to elevate and optimize the performance of the Angular applications.",
+    "topics": ["Typescript", "Javascript"]
+  },
+  {
+    "title": "Software Development",
+    "desc": "Software developer applying SOLID principles, utilizing Agile Scrum methodology, collaborating through Git and Bitbucket for version control, and streamlining development pipelines with Jenkins and Jira for efficient project management.",
+    "topics": ["Git", "Bitbucket", "Jenkins", "Agile (SCRUM)", "SOLID"]
+  },
+  {
+    "title": "Web Technologies",
+    "desc": "Expertly leveraging the power of HTML5, CSS3, and Bootstrap within Angular to create responsive and visually appealing web applications.", 
+    "topics": ["HTML5", "CSS3", "Bootstrap"]
+  },
+  {
+    "title": "Others",
+    "desc": "Proficient in utilizing PrimeNG for rich UI components, Cypress and Jasmine for robust testing, and REST for seamless API integrations in modern web development.",
+    "topics": ["PrimeNG", "Cypress", "Jasmin", "REST"]
+  },
+  {
+    "title": "Languages",
+    "desc": "I am fluent in English and currently pursuing German at the A1 level, with a determined focus on advancing to higher proficiency levels.   ",
+    "topics": ["English", "German A1"]
+  }
+]

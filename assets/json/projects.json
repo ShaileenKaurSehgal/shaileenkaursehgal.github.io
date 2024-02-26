@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Note Application",
+    "projectLink": "https://github.com/ShaileenKaurSehgal/noteapp",
+    "desc": "A note application employing PrimeNG for UI components and an HTTP client for API interactions, implementing CRUD functionality."
+  },
+  {
+    "title": "Location App",
+    "projectLink": "https://github.com/ShaileenKaurSehgal/movinglocations",
+    "desc": "A location-swapping app with ES6, Bootstrap for responsive design, enabling users to interchange positions and search locations seamlessly."
+  },
+  {
+    "title": "Profile",
+    "projectLink": "https://github.com/ShaileenKaurSehgal/shaileenkaursehgal.github.io",
+    "desc": "A Single Page Application showcasing experience and skillsets, built with Angular, PrimeNG for UI, and HTTP client for seamless data interaction."
+  }
+]
